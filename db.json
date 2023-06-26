@@ -1,4 +1,12 @@
 {
+  "nomes": [
+    {
+      "nome": "Horlando"
+    },
+    {
+      "nome": "Ricardo"
+    }
+  ],
   "posts": [
     {
       "id": 1,
