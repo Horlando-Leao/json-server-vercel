@@ -47,6 +47,7 @@
   ],
   "ceps": [
     {
+      "id": "01001-000",
       "cep": "01001-000",
       "logradouro": "Praça da Sé",
       "complemento": "lado ímpar",
@@ -56,6 +57,7 @@
       "ddd": "11"
     },
     {
+      "id": "02636-001",
       "cep": "02636-001",
       "logradouro": "Rua Messena",
       "complemento": "",
