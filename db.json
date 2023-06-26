@@ -10,10 +10,7 @@
         "bairro": "Sé",
         "localidade": "São Paulo",
         "uf": "SP",
-        "ibge": "3550308",
-        "gia": "1004",
-        "ddd": "11",
-        "siafi": "7107"
+        "ddd": "11"
       }
     }
   ],
@@ -28,10 +25,7 @@
         "bairro": "Sé",
         "localidade": "São Paulo",
         "uf": "SP",
-        "ibge": "3550308",
-        "gia": "1004",
-        "ddd": "11",
-        "siafi": "7107"
+        "ddd": "11"
       },
       "informacao_adicional": [
         "Tem um gato tem um cachorro", 
@@ -59,10 +53,7 @@
       "bairro": "Sé",
       "localidade": "São Paulo",
       "uf": "SP",
-      "ibge": "3550308",
-      "gia": "1004",
-      "ddd": "11",
-      "siafi": "7107"
+      "ddd": "11"
     },
     {
       "cep": "02636-001",
@@ -71,10 +62,7 @@
       "bairro": "Vila Santos",
       "localidade": "São Paulo",
       "uf": "SP",
-      "ibge": "3550308",
-      "gia": "1004",
-      "ddd": "11",
-      "siafi": "7107"
+      "ddd": "11"
     }
   ]
 }
