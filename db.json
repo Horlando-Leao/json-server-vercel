@@ -44,6 +44,8 @@
     {
       "id": "f992ae69-622e-47ad-a1ab-2f409a5942f3",
       "nome": "Ricardo Moura",
+      "telefone": "11977131454",
+      "email": "ricardo.moura@gmail.com",
       "endereco": {
         "cep": "01001-000",
         "logradouro": "Praça da Sé",
@@ -57,9 +59,10 @@
         "Tem um gato tem um cachorro", 
         "Tem um peixe"
       ],
-      "documentos_id": [
+      "documentos": [
         {
-          "nome_documento": "RG frente e verso.pdf",
+          "nome": "RG frente",
+          "extensao": "png",
           "url": "https://json-server-vercel-iota-rosy.vercel.app/documentos?id=8136b7d7-444c-4161-b86b-ad5c5ea59320"
         }
       ]
