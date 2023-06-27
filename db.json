@@ -2,12 +2,38 @@
   "condominios": [
     {
       "id": "23453872-ec79-4b56-bb5f-b00e83e6e5b2",
-      "nome": "Condominios Jerusalem",
+      "nome": "Condominios ABC1",
       "endereco": {
         "cep": "01001-000",
         "logradouro": "Praça da Sé",
         "complemento": "lado ímpar",
         "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ddd": "11"
+      }
+    },
+    {
+      "id": "23453872-ec79-4b56-bb5f-b00e83e6e5b2",
+      "nome": "Condominios ABC2",
+      "endereco": {
+        "cep": "02636-001",
+        "logradouro": "Rua Messena",
+        "complemento": "",
+        "bairro": "Vila Santos",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ddd": "11"
+      }
+    },
+    {
+      "id": "23453872-ec79-4b56-bb5f-b00e83e6e5b2",
+      "nome": "Condominios ABC3",
+      "endereco": {
+        "cep": "05863-270",
+        "logradouro": "Rua Tadeo Gaddi",
+        "complemento": "",
+        "bairro": "São Paulo",
         "localidade": "São Paulo",
         "uf": "SP",
         "ddd": "11"
@@ -62,6 +88,16 @@
       "logradouro": "Rua Messena",
       "complemento": "",
       "bairro": "Vila Santos",
+      "localidade": "São Paulo",
+      "uf": "SP",
+      "ddd": "11"
+    },
+    {
+      "id": "05863-270",
+      "cep": "05863-270",
+      "logradouro": "Rua Tadeo Gaddi",
+      "complemento": "",
+      "bairro": "São Paulo",
       "localidade": "São Paulo",
       "uf": "SP",
       "ddd": "11"
