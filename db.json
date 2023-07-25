@@ -1,4 +1,11 @@
 {
+  "cidades":[
+    {
+      "nome": "Campinas",
+      "estado": "São Paulo",
+      "uf" "SP"
+    }
+  ]
   "condominios": [
     {
       "id": "23453872-ec79-4b56-bb5f-b00e83e6e5b2",
