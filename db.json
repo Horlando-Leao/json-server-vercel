@@ -1,11 +1,13 @@
 {
   "cidades":[
     {
+      "id": "6b56878c-1298-4766-b26b-8b1dc671f6c5",
       "nome": "Campinas",
       "estado": "São Paulo",
       "uf": "SP"
     },
     {
+      "id": "70c1d317-a418-4cab-b366-f2c2a2c4b121",
       "nome": "São Paulo",
       "estado": "São Paulo",
       "uf": "SP"
