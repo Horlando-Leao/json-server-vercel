@@ -4,6 +4,11 @@
       "nome": "Campinas",
       "estado": "São Paulo",
       "uf": "SP"
+    },
+    {
+      "nome": "São Paulo",
+      "estado": "São Paulo",
+      "uf": "SP"
     }
   ],
   "condominios": [
