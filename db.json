@@ -19,7 +19,7 @@
       "nome": "Condominios ABC1",
       "endereco": {
         "numero": "191",
-        "cep": "01001-000",
+        "cep": "01001000",
         "logradouro": "Praça da Sé",
         "complemento": "lado ímpar",
         "bairro": "Sé",
@@ -33,7 +33,7 @@
       "nome": "Condominios ABC2",
       "endereco": {
         "numero": "192",
-        "cep": "02636-001",
+        "cep": "02636001",
         "logradouro": "Rua Messena",
         "complemento": "",
         "bairro": "Vila Santos",
@@ -47,7 +47,7 @@
       "nome": "Condominios ABC3",
       "endereco": {
         "numero": "193",
-        "cep": "05863-270",
+        "cep": "05863270",
         "logradouro": "Rua Tadeo Gaddi",
         "complemento": "",
         "bairro": "São Paulo",
@@ -61,7 +61,7 @@
       "nome": "Condomínio São Gabriel",
       "endereco": {
         "numero": "17",
-        "cep": "13045-320",
+        "cep": "13045320",
         "logradouro": "Rua Paulo Nogueira Filho",
         "complemento": "",
         "bairro": "Jardim São Gabriel",
@@ -75,7 +75,7 @@
       "nome": "Alameda dos Jasmins",
       "endereco": {
         "numero": "304",
-        "cep": "13045-320",
+        "cep": "13045320",
         "logradouro": "Rua Paulo Nogueira Filho",
         "complemento": "",
         "bairro": "Jardim São Gabriel",
@@ -89,7 +89,7 @@
       "nome": "Parque dos Ipês",
       "endereco": {
         "numero": "501",
-        "cep": "13032-385",
+        "cep": "13032385",
         "logradouro": "Rua Joaquim Vilac",
         "complemento": "",
         "bairro": "Vila Teixeira",
@@ -103,7 +103,7 @@
       "nome": "Vilarejo dos Sabiás",
       "endereco": {
         "numero": "604",
-        "cep": "01311-000",
+        "cep": "01311000",
         "logradouro": "Avenida Paulista",
         "complemento": "até 609 - lado ímpar",
         "bairro": "Bela Vista",
@@ -117,7 +117,7 @@
       "nome": "Portal do Sol",
       "endereco": {
         "numero": "",
-        "cep": "04094-050",
+        "cep": "04094050",
         "logradouro": "Avenida Pedro Álvares Cabral",
         "complemento": "",
         "bairro": "Parque Ibirapuera",
@@ -134,7 +134,7 @@
       "telefone": "11977131454",
       "email": "ricardo.moura@gmail.com",
       "endereco": {
-        "cep": "01001-000",
+        "cep": "01001000",
         "logradouro": "Praça da Sé",
         "complemento": "lado ímpar",
         "bairro": "Sé",
@@ -163,8 +163,8 @@
   ],
   "ceps": [
     {
-      "id": "01001-000",
-      "cep": "01001-000",
+      "id": "01001000",
+      "cep": "01001000",
       "logradouro": "Praça da Sé",
       "complemento": "lado ímpar",
       "bairro": "Sé",
@@ -173,8 +173,8 @@
       "ddd": "11"
     },
     {
-      "id": "02636-001",
-      "cep": "02636-001",
+      "id": "02636001",
+      "cep": "02636001",
       "logradouro": "Rua Messena",
       "complemento": "",
       "bairro": "Vila Santos",
@@ -183,8 +183,8 @@
       "ddd": "11"
     },
     {
-      "id": "05863-270",
-      "cep": "05863-270",
+      "id": "05863270",
+      "cep": "05863270",
       "logradouro": "Rua Tadeo Gaddi",
       "complemento": "",
       "bairro": "São Paulo",
@@ -193,8 +193,8 @@
       "ddd": "11"
     },
     {
-      "id": "13045-320",
-      "cep": "13045-320",
+      "id": "13045320",
+      "cep": "13045320",
       "logradouro": "Rua Paulo Nogueira Filho",
       "complemento": "",
       "bairro": "Jardim São Gabriel",
@@ -203,8 +203,8 @@
       "dd": "11"
     },
     {
-      "id": "13032-385",
-      "cep": "13032-385",
+      "id": "13032385",
+      "cep": "13032385",
       "logradouro": "Rua Joaquim Vilac",
       "complemento": "",
       "bairro": "Vila Teixeira",
@@ -213,8 +213,8 @@
       "dd": "11"
     },
     {
-      "id": "01311-000",
-      "cep": "01311-000",
+      "id": "01311000",
+      "cep": "01311000",
       "logradouro": "Avenida Paulista",
       "complemento": "até 609 - lado ímpar",
       "bairro": "Bela Vista",
@@ -223,8 +223,8 @@
       "dd": "11"
     },
     {
-      "id": "04094-050",
-      "cep": "04094-050",
+      "id": "04094050",
+      "cep": "04094050",
       "logradouro": "Avenida Pedro Álvares Cabral",
       "complemento": "",
       "bairro": "Parque Ibirapuera",
